@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.14" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="activity">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1146" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -300,11 +300,14 @@
         <mxCell id="QFxv0Di5CS341wBC3GDb-96" value="點擊刪除鈕" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1690" y="560" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="xltHR6cVpqkFMqFOqpjg-0" value="P11的簽核畫面是否能做到" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="770" y="695" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="gun8EB8I9AW47mBWgjyo" name="table">
-    <mxGraphModel dx="1973" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1918" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -424,7 +427,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tNduz4eXn-OvZCXJbW9v-77" value="報名指定負責人" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="tNduz4eXn-OvZCXJbW9v-75">
+        <mxCell id="tNduz4eXn-OvZCXJbW9v-77" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="tNduz4eXn-OvZCXJbW9v-75">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -582,7 +585,7 @@
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YBzY5JtlpIDMjRCvq2x1-43" value="單位課長" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="YBzY5JtlpIDMjRCvq2x1-41">
+        <mxCell id="YBzY5JtlpIDMjRCvq2x1-43" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="YBzY5JtlpIDMjRCvq2x1-41">
           <mxGeometry x="60" width="120" height="30" as="geometry">
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -677,11 +680,14 @@
         <mxCell id="YBzY5JtlpIDMjRCvq2x1-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tNduz4eXn-OvZCXJbW9v-115" target="YBzY5JtlpIDMjRCvq2x1-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YBzY5JtlpIDMjRCvq2x1-44" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;新增/替換/刪除時，&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;用當前的使用帳號＋課程序號&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;去檢查該簽核是否已簽核完成&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;，&lt;span style=&quot;background-color: initial;&quot;&gt;已完成才可操作&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;新增存檔時會將查到的簽核單&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;號寫入本次新增的 &quot;&lt;/span&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;職安證照開&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;課報名資料&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot; 中，理論上這個新&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;增的人的簽核單號會跟同部門的&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;其他人一樣&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="460" y="617" width="170" height="170" as="geometry" />
+        <mxCell id="YBzY5JtlpIDMjRCvq2x1-44" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;新增/替換/刪除時，&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;看是否為課長，&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;用當前的使用帳號＋課程序號&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;去檢查該簽核是否已簽核完成&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;，找不到再找&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;，&lt;span style=&quot;background-color: initial;&quot;&gt;已完成才可操作&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;新增存檔時會將查到的簽核單&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;號寫入本次新增的 &quot;&lt;/span&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;職安證照開&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;課報名資料&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot; 中，理論上這個新&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;增的人的簽核單號會跟同部門的&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;其他人一樣&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="460" y="617" width="170" height="233" as="geometry" />
         </mxCell>
         <mxCell id="YBzY5JtlpIDMjRCvq2x1-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=70;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="YBzY5JtlpIDMjRCvq2x1-41" target="YBzY5JtlpIDMjRCvq2x1-44">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-6I0-Hm5jthBjN_hMFJ5-1" value="&lt;span style=&quot;text-align: left; text-wrap: wrap;&quot;&gt;報名指定負責人&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left; text-wrap: wrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="430" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
