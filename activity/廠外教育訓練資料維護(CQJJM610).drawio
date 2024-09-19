@@ -258,11 +258,8 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ZryU5jLnJWB0OPfzNGL-56" value="簽核完時紀錄一筆歷史檔，後續在更新跟送簽時一樣使用原始的PNORGR，簽核時比對歷史檔" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="320" width="340" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3ZryU5jLnJWB0OPfzNGL-57" value="更新都更新TEMP檔，簽核完成時再將TEMP檔寫入PNORGR中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="388" width="360" height="30" as="geometry" />
+        <mxCell id="3ZryU5jLnJWB0OPfzNGL-56" value="簽核完時紀錄一筆歷史檔，後續在更新跟送簽時一樣使用原始的PNORGR，簽核時比對歷史檔&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;OR&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;更新都更新TEMP檔，簽核完成時再將TEMP檔寫入PNORGR中&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="281" width="340" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3ZryU5jLnJWB0OPfzNGL-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="3ZryU5jLnJWB0OPfzNGL-2">
           <mxGeometry relative="1" as="geometry">
