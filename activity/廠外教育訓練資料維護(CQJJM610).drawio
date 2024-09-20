@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.15" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1146" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -60,14 +60,14 @@
             <mxPoint x="170" y="675" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hPEFb3tVTXjyMYCFK9VT-0" value="原本CQJJM611畫面已有&quot;參訓類別&quot;，&lt;div&gt;可用此去帶入課程名稱。&lt;span style=&quot;background-color: initial;&quot;&gt;但並無另外做紀錄&lt;/span&gt;&lt;div&gt;根據P21第一點的敘述&lt;/div&gt;&lt;div&gt;&quot;CQJJM611參訓類&lt;span style=&quot;background-color: initial;&quot;&gt;別帶入CQJJM610參訓類別&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;是否要新增參訓類別欄位去做儲存與帶入&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hPEFb3tVTXjyMYCFK9VT-0" value="原本CQJJM611畫面已有&quot;參訓類別&quot;，&lt;div&gt;可用此去帶入課程名稱。&lt;span style=&quot;background-color: initial;&quot;&gt;但並無另外做紀錄&lt;/span&gt;&lt;div&gt;根據P21第一點的敘述&lt;/div&gt;&lt;div&gt;&quot;CQJJM611參訓類&lt;span style=&quot;background-color: initial;&quot;&gt;別帶入CQJJM610參訓類別&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;是否要新增參訓類別欄位去做儲存與帶入&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="633" width="270" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="gPOCgjxf-bVZv_Dk_9AA" name="第 2 页">
-    <mxGraphModel dx="1146" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
