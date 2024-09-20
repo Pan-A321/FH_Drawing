@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.15" pages="2">
   <diagram name="table" id="ymT2MkrfYDFQd_zozrBg">
-    <mxGraphModel dx="1973" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1973" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -227,7 +227,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZGCgZUoTYTQV3HCfhUhi-54" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;職安證照開課&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;報名&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;簽核檔&lt;/span&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="270" y="407" width="180" height="210" as="geometry">
+          <mxGeometry x="270" y="407" width="180" height="240" as="geometry">
             <mxRectangle x="270" y="400" width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -257,8 +257,21 @@
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZGCgZUoTYTQV3HCfhUhi-61" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="ZGCgZUoTYTQV3HCfhUhi-54">
+        <mxCell id="t1qAk1E2w-FBdGikp-iy-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="ZGCgZUoTYTQV3HCfhUhi-54">
           <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t1qAk1E2w-FBdGikp-iy-28" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="t1qAk1E2w-FBdGikp-iy-27">
+          <mxGeometry width="60" height="30" as="geometry">
+            <mxRectangle width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t1qAk1E2w-FBdGikp-iy-29" value="受訓梯次" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="t1qAk1E2w-FBdGikp-iy-27">
+          <mxGeometry x="60" width="120" height="30" as="geometry">
+            <mxRectangle width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZGCgZUoTYTQV3HCfhUhi-61" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="ZGCgZUoTYTQV3HCfhUhi-54">
+          <mxGeometry y="120" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZGCgZUoTYTQV3HCfhUhi-62" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="ZGCgZUoTYTQV3HCfhUhi-61">
           <mxGeometry width="60" height="30" as="geometry">
@@ -271,20 +284,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZGCgZUoTYTQV3HCfhUhi-64" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="ZGCgZUoTYTQV3HCfhUhi-54">
-          <mxGeometry y="120" width="180" height="30" as="geometry" />
+          <mxGeometry y="150" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZGCgZUoTYTQV3HCfhUhi-65" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="ZGCgZUoTYTQV3HCfhUhi-64">
           <mxGeometry width="60" height="30" as="geometry">
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZGCgZUoTYTQV3HCfhUhi-66" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="ZGCgZUoTYTQV3HCfhUhi-64">
+        <mxCell id="ZGCgZUoTYTQV3HCfhUhi-66" value="部門" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="ZGCgZUoTYTQV3HCfhUhi-64">
           <mxGeometry x="60" width="120" height="30" as="geometry">
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZGCgZUoTYTQV3HCfhUhi-67" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="ZGCgZUoTYTQV3HCfhUhi-54">
-          <mxGeometry y="150" width="180" height="30" as="geometry" />
+          <mxGeometry y="180" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZGCgZUoTYTQV3HCfhUhi-68" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="ZGCgZUoTYTQV3HCfhUhi-67">
           <mxGeometry width="60" height="30" as="geometry">
@@ -297,7 +310,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZGCgZUoTYTQV3HCfhUhi-70" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="ZGCgZUoTYTQV3HCfhUhi-54">
-          <mxGeometry y="180" width="180" height="30" as="geometry" />
+          <mxGeometry y="210" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZGCgZUoTYTQV3HCfhUhi-71" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="ZGCgZUoTYTQV3HCfhUhi-70">
           <mxGeometry width="60" height="30" as="geometry">
@@ -309,7 +322,7 @@
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZGCgZUoTYTQV3HCfhUhi-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="ZGCgZUoTYTQV3HCfhUhi-74" target="ZGCgZUoTYTQV3HCfhUhi-5">
+        <mxCell id="ZGCgZUoTYTQV3HCfhUhi-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="ZGCgZUoTYTQV3HCfhUhi-74" target="ZGCgZUoTYTQV3HCfhUhi-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZGCgZUoTYTQV3HCfhUhi-74" value="畫面中的受訓梯次、受訓時間跟上課地點由尾檔的資料group 起來顯示" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=bottom;" vertex="1" parent="1">
@@ -373,8 +386,8 @@
         <mxCell id="ZGCgZUoTYTQV3HCfhUhi-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZGCgZUoTYTQV3HCfhUhi-55" target="ZGCgZUoTYTQV3HCfhUhi-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZGCgZUoTYTQV3HCfhUhi-89" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;新增/替換/刪除時，&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;看是否為課長，&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;用當前的使用帳號＋課程序號&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;去檢查該簽核是否已簽核完成&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;，找不到再找&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;，&lt;span style=&quot;background-color: initial;&quot;&gt;已完成才可操作&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;新增存檔時會將查到的簽核單&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;號寫入本次新增的 &quot;&lt;/span&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;職安證照開&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;課報名資料&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot; 中，理論上這個新&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;增的人的簽核單號會跟同部門的&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;其他人一樣&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="460" y="617" width="170" height="233" as="geometry" />
+        <mxCell id="ZGCgZUoTYTQV3HCfhUhi-89" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;新增/替換/刪除時，&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;看是否為課長，&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;用當前的使用帳號＋課程序號&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;去檢查該簽核是否已簽核完成&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;，找不到再找&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;，&lt;span style=&quot;background-color: initial;&quot;&gt;已完成才可操作&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;新增存檔時會將查到的簽核單&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;號寫入本次新增的 &quot;&lt;/span&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;職安證照開&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;課報名資料&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot; 中，理論上這個新&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;增的人的簽核單號會跟同部門的&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;其他人一樣&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=bottom;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="617" width="170" height="183" as="geometry" />
         </mxCell>
         <mxCell id="ZGCgZUoTYTQV3HCfhUhi-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=70;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="ZGCgZUoTYTQV3HCfhUhi-64" target="ZGCgZUoTYTQV3HCfhUhi-89">
           <mxGeometry relative="1" as="geometry" />
@@ -400,7 +413,7 @@
         <mxCell id="ZGCgZUoTYTQV3HCfhUhi-95" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="ZGCgZUoTYTQV3HCfhUhi-91">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZGCgZUoTYTQV3HCfhUhi-96" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="ZGCgZUoTYTQV3HCfhUhi-95">
+        <mxCell id="ZGCgZUoTYTQV3HCfhUhi-96" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="ZGCgZUoTYTQV3HCfhUhi-95">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -475,11 +488,20 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rhbBDBxST8ieG6W3QZN3-1" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;送簽時預設負責人為課&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;長，當&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial;&quot;&gt;指定負責人時再&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial;&quot;&gt;做更新&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="150" y="720" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rhbBDBxST8ieG6W3QZN3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="ZGCgZUoTYTQV3HCfhUhi-104" target="rhbBDBxST8ieG6W3QZN3-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t1qAk1E2w-FBdGikp-iy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZGCgZUoTYTQV3HCfhUhi-6" target="ZGCgZUoTYTQV3HCfhUhi-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="KMN83_5hN7KbisazS7sD" name="activity">
-    <mxGraphModel dx="2292" dy="1454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1273" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -715,12 +737,8 @@
         <mxCell id="RGcxcQwrfLSXSj9DCxua-71" value="點擊勾選框" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1729" y="590" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RGcxcQwrfLSXSj9DCxua-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGcxcQwrfLSXSj9DCxua-73" target="RGcxcQwrfLSXSj9DCxua-58">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1604" y="690" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="T93bYqOdCeZGPHXKK1OG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGcxcQwrfLSXSj9DCxua-73" target="T93bYqOdCeZGPHXKK1OG-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RGcxcQwrfLSXSj9DCxua-73" value="點擊替換鈕" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1729" y="670" width="150" height="40" as="geometry" />
@@ -754,25 +772,21 @@
         <mxCell id="RGcxcQwrfLSXSj9DCxua-82" value="點擊勾選框" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1914" y="590" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RGcxcQwrfLSXSj9DCxua-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGcxcQwrfLSXSj9DCxua-84" target="RGcxcQwrfLSXSj9DCxua-58">
+        <mxCell id="T93bYqOdCeZGPHXKK1OG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGcxcQwrfLSXSj9DCxua-84" target="T93bYqOdCeZGPHXKK1OG-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1989" y="730" />
-              <mxPoint x="1584" y="730" />
-              <mxPoint x="1584" y="430" />
+              <mxPoint x="1989" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RGcxcQwrfLSXSj9DCxua-84" value="點擊新增鈕" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1914" y="670" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RGcxcQwrfLSXSj9DCxua-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGcxcQwrfLSXSj9DCxua-86" target="RGcxcQwrfLSXSj9DCxua-58">
+        <mxCell id="T93bYqOdCeZGPHXKK1OG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGcxcQwrfLSXSj9DCxua-86" target="T93bYqOdCeZGPHXKK1OG-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2159" y="750" />
-              <mxPoint x="1564" y="750" />
-              <mxPoint x="1564" y="410" />
-              <mxPoint x="1604" y="410" />
+              <mxPoint x="2159" y="800" />
+              <mxPoint x="1654" y="800" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -781,6 +795,17 @@
         </mxCell>
         <mxCell id="RGcxcQwrfLSXSj9DCxua-87" value="P11的簽核畫面是否能做到" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="1164" y="805" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T93bYqOdCeZGPHXKK1OG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T93bYqOdCeZGPHXKK1OG-1" target="RGcxcQwrfLSXSj9DCxua-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1584" y="760" />
+              <mxPoint x="1584" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T93bYqOdCeZGPHXKK1OG-1" value="" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="1631" y="740" width="46" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
