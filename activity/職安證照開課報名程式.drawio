@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.15" pages="2">
   <diagram name="table" id="ymT2MkrfYDFQd_zozrBg">
-    <mxGraphModel dx="1782" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2425" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="999" y="170" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZGCgZUoTYTQV3HCfhUhi-5" value="職安證照開課資料頭檔" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="100" width="180" height="270" as="geometry">
+          <mxGeometry x="30" y="100" width="180" height="300" as="geometry">
             <mxRectangle x="30" y="100" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -120,7 +120,20 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZGCgZUoTYTQV3HCfhUhi-29" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="ZGCgZUoTYTQV3HCfhUhi-27" vertex="1">
+        <mxCell id="ZGCgZUoTYTQV3HCfhUhi-29" value="更新人員" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="ZGCgZUoTYTQV3HCfhUhi-27" vertex="1">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YnQiyXWeS0vGGgiu4k63-13" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="ZGCgZUoTYTQV3HCfhUhi-5">
+          <mxGeometry y="270" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YnQiyXWeS0vGGgiu4k63-14" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="YnQiyXWeS0vGGgiu4k63-13">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YnQiyXWeS0vGGgiu4k63-15" value="更新日期" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="YnQiyXWeS0vGGgiu4k63-13">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -135,7 +148,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZGCgZUoTYTQV3HCfhUhi-33" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;職安證照開課資料尾檔&lt;/span&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="270" y="100" width="180" height="210" as="geometry" />
+          <mxGeometry x="270" y="100" width="180" height="270" as="geometry" />
         </mxCell>
         <mxCell id="ZGCgZUoTYTQV3HCfhUhi-34" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" parent="ZGCgZUoTYTQV3HCfhUhi-33" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -211,6 +224,32 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZGCgZUoTYTQV3HCfhUhi-51" value="上課地點" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" parent="ZGCgZUoTYTQV3HCfhUhi-49" vertex="1">
+          <mxGeometry x="60" width="120" height="30" as="geometry">
+            <mxRectangle width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YnQiyXWeS0vGGgiu4k63-10" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="ZGCgZUoTYTQV3HCfhUhi-33">
+          <mxGeometry y="210" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YnQiyXWeS0vGGgiu4k63-11" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="YnQiyXWeS0vGGgiu4k63-10">
+          <mxGeometry width="60" height="30" as="geometry">
+            <mxRectangle width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YnQiyXWeS0vGGgiu4k63-12" value="更新人員" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="YnQiyXWeS0vGGgiu4k63-10">
+          <mxGeometry x="60" width="120" height="30" as="geometry">
+            <mxRectangle width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YnQiyXWeS0vGGgiu4k63-7" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="ZGCgZUoTYTQV3HCfhUhi-33">
+          <mxGeometry y="240" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YnQiyXWeS0vGGgiu4k63-8" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="YnQiyXWeS0vGGgiu4k63-7">
+          <mxGeometry width="60" height="30" as="geometry">
+            <mxRectangle width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YnQiyXWeS0vGGgiu4k63-9" value="更新日期" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="YnQiyXWeS0vGGgiu4k63-7">
           <mxGeometry x="60" width="120" height="30" as="geometry">
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -329,7 +368,7 @@
           <mxGeometry x="-150" y="20" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZGCgZUoTYTQV3HCfhUhi-75" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;職安證照開課報名資料&lt;/span&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="520" y="100" width="180" height="150" as="geometry" />
+          <mxGeometry x="520" y="100" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="ZGCgZUoTYTQV3HCfhUhi-76" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" parent="ZGCgZUoTYTQV3HCfhUhi-75" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -373,20 +412,43 @@
         <mxCell id="ZGCgZUoTYTQV3HCfhUhi-85" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" parent="ZGCgZUoTYTQV3HCfhUhi-75" vertex="1">
           <mxGeometry y="120" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZGCgZUoTYTQV3HCfhUhi-86" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;" parent="ZGCgZUoTYTQV3HCfhUhi-85" vertex="1">
+        <mxCell id="ZGCgZUoTYTQV3HCfhUhi-86" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;" parent="ZGCgZUoTYTQV3HCfhUhi-85" vertex="1">
           <mxGeometry width="60" height="30" as="geometry">
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZGCgZUoTYTQV3HCfhUhi-87" value="簽核單號" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" parent="ZGCgZUoTYTQV3HCfhUhi-85" vertex="1">
+        <mxCell id="ZGCgZUoTYTQV3HCfhUhi-87" value="&lt;strike&gt;簽核單號&lt;/strike&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" parent="ZGCgZUoTYTQV3HCfhUhi-85" vertex="1">
           <mxGeometry x="60" width="120" height="30" as="geometry">
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZGCgZUoTYTQV3HCfhUhi-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZGCgZUoTYTQV3HCfhUhi-55" target="ZGCgZUoTYTQV3HCfhUhi-85" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YnQiyXWeS0vGGgiu4k63-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="ZGCgZUoTYTQV3HCfhUhi-75">
+          <mxGeometry y="150" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZGCgZUoTYTQV3HCfhUhi-89" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;新增/替換/刪除時，&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;看是否為課長，&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;用當前的使用帳號＋課程序號&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;去檢查該簽核是否已簽核完成&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;，找不到再找&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;，&lt;span style=&quot;background-color: initial;&quot;&gt;已完成才可操作&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;新增存檔時會將查到的簽核單&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;號寫入本次新增的 &quot;&lt;/span&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;職安證照開&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;課報名資料&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot; 中，理論上這個新&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;增的人的簽核單號會跟同部門的&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;其他人一樣&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=bottom;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="YnQiyXWeS0vGGgiu4k63-2" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="YnQiyXWeS0vGGgiu4k63-1">
+          <mxGeometry width="60" height="30" as="geometry">
+            <mxRectangle width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YnQiyXWeS0vGGgiu4k63-3" value="更新人員" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="YnQiyXWeS0vGGgiu4k63-1">
+          <mxGeometry x="60" width="120" height="30" as="geometry">
+            <mxRectangle width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YnQiyXWeS0vGGgiu4k63-4" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="ZGCgZUoTYTQV3HCfhUhi-75">
+          <mxGeometry y="180" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YnQiyXWeS0vGGgiu4k63-5" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="YnQiyXWeS0vGGgiu4k63-4">
+          <mxGeometry width="60" height="30" as="geometry">
+            <mxRectangle width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YnQiyXWeS0vGGgiu4k63-6" value="更新日期" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="YnQiyXWeS0vGGgiu4k63-4">
+          <mxGeometry x="60" width="120" height="30" as="geometry">
+            <mxRectangle width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZGCgZUoTYTQV3HCfhUhi-89" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;新增/替換/刪除時，&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;看該部門該&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial;&quot;&gt;課程序號&lt;/span&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;的簽核是否已簽核完成&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;，再看是否為課長，&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;不是就檢查是否為該部門&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;該&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;課程序號的負責人&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;新增存檔時會將查到的簽核單&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;號寫入本次新增的 &quot;&lt;/span&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;職安證照開&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;課報名資料&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot; 中，理論上這個新&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;增的人的簽核單號會跟同部門的&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;其他人一樣&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=bottom;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="460" y="617" width="170" height="183" as="geometry" />
         </mxCell>
         <mxCell id="ZGCgZUoTYTQV3HCfhUhi-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=70;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" parent="1" source="ZGCgZUoTYTQV3HCfhUhi-64" target="ZGCgZUoTYTQV3HCfhUhi-89" edge="1">
@@ -497,16 +559,22 @@
         <mxCell id="t1qAk1E2w-FBdGikp-iy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZGCgZUoTYTQV3HCfhUhi-6" target="ZGCgZUoTYTQV3HCfhUhi-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="R577yalpAuWVHFEP8YD8-1" value="CWQC代碼檔裡面有&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;用名稱區分初訓回訓&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-410" y="230" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KdNu01hhgLJRO-kFLoHo-2" value="參訓類別" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="990" y="680" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="KMN83_5hN7KbisazS7sD" name="activity">
-    <mxGraphModel dx="1637" dy="1039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1187" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TEd7gkJ7Dr6ezbE0l8lO-26" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="514" width="423.5" height="560" as="geometry" />
+          <mxGeometry x="100" y="513" width="423.5" height="560" as="geometry" />
         </mxCell>
         <mxCell id="RGcxcQwrfLSXSj9DCxua-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;" parent="1" vertex="1">
           <mxGeometry x="1504" y="96" width="780" height="950" as="geometry" />
@@ -622,8 +690,8 @@
         <mxCell id="RGcxcQwrfLSXSj9DCxua-32" value="進行報名流程" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="919" y="683" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RGcxcQwrfLSXSj9DCxua-33" value="可幫其他部門的人報名嗎？" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
-          <mxGeometry x="1164" y="688" width="170" height="30" as="geometry" />
+        <mxCell id="RGcxcQwrfLSXSj9DCxua-33" value="可幫其他部門的人報名嗎？no" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="1164" y="688" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RGcxcQwrfLSXSj9DCxua-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RGcxcQwrfLSXSj9DCxua-36" target="RGcxcQwrfLSXSj9DCxua-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -663,8 +731,8 @@
         <mxCell id="RGcxcQwrfLSXSj9DCxua-45" value="報名流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="874" y="98" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RGcxcQwrfLSXSj9DCxua-46" value="要存檔就送簽嗎" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
-          <mxGeometry x="444" y="403" width="110" height="30" as="geometry" />
+        <mxCell id="RGcxcQwrfLSXSj9DCxua-46" value="要存檔就送簽嗎？&lt;div&gt;可以重複存檔嗎？&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="437" y="398" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RGcxcQwrfLSXSj9DCxua-47" value="新增/替換/刪除" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1524" y="106" width="100" height="30" as="geometry" />
@@ -804,9 +872,6 @@
         <mxCell id="RGcxcQwrfLSXSj9DCxua-86" value="點擊刪除鈕" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="2084" y="676" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RGcxcQwrfLSXSj9DCxua-87" value="P11的簽核畫面是否能做到" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
-          <mxGeometry x="1164" y="813" width="160" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="T93bYqOdCeZGPHXKK1OG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="T93bYqOdCeZGPHXKK1OG-1" target="RGcxcQwrfLSXSj9DCxua-58" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -887,6 +952,12 @@
         </mxCell>
         <mxCell id="TEd7gkJ7Dr6ezbE0l8lO-27" value="報名流程" style="text;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="514" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="orS9-o-JdWcocoAza8qJ-1" value="資料有錯就用資料更正單" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="437" y="438" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="orS9-o-JdWcocoAza8qJ-2" value="&lt;span style=&quot;text-align: left;&quot;&gt;一梯次課程一次簽核&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1164" y="807" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
