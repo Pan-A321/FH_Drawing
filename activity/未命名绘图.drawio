@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="mXp_F0Fjo8n4CY_Ymyif-0" value="&lt;u&gt;&lt;span style=&quot;font-family: 微軟正黑體;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;年度考核第一層評分&lt;br&gt;主管確認表&lt;/font&gt;&lt;/span&gt;&lt;/u&gt;" style="shape=table;startSize=70;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="210" y="110" width="210" height="1030" as="geometry" />
+          <mxGeometry x="210" y="110" width="210" height="1150" as="geometry" />
         </mxCell>
         <mxCell id="mXp_F0Fjo8n4CY_Ymyif-42" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;html=1;" parent="mXp_F0Fjo8n4CY_Ymyif-0" vertex="1">
           <mxGeometry y="70" width="210" height="30" as="geometry" />
@@ -223,7 +223,7 @@
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mXp_F0Fjo8n4CY_Ymyif-107" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" parent="mXp_F0Fjo8n4CY_Ymyif-105" vertex="1">
+        <mxCell id="mXp_F0Fjo8n4CY_Ymyif-107" value="評核人1給分備註" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" parent="mXp_F0Fjo8n4CY_Ymyif-105" vertex="1">
           <mxGeometry x="60" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -262,7 +262,7 @@
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mXp_F0Fjo8n4CY_Ymyif-110" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" parent="mXp_F0Fjo8n4CY_Ymyif-108" vertex="1">
+        <mxCell id="mXp_F0Fjo8n4CY_Ymyif-110" value="評核人2給分備註" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" parent="mXp_F0Fjo8n4CY_Ymyif-108" vertex="1">
           <mxGeometry x="60" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -301,7 +301,7 @@
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mXp_F0Fjo8n4CY_Ymyif-113" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" parent="mXp_F0Fjo8n4CY_Ymyif-111" vertex="1">
+        <mxCell id="mXp_F0Fjo8n4CY_Ymyif-113" value="評核人3給分備註" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" parent="mXp_F0Fjo8n4CY_Ymyif-111" vertex="1">
           <mxGeometry x="60" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -340,7 +340,7 @@
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mXp_F0Fjo8n4CY_Ymyif-116" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" parent="mXp_F0Fjo8n4CY_Ymyif-114" vertex="1">
+        <mxCell id="mXp_F0Fjo8n4CY_Ymyif-116" value="評核人4給分備註" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" parent="mXp_F0Fjo8n4CY_Ymyif-114" vertex="1">
           <mxGeometry x="60" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -379,7 +379,7 @@
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mXp_F0Fjo8n4CY_Ymyif-119" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" parent="mXp_F0Fjo8n4CY_Ymyif-117" vertex="1">
+        <mxCell id="mXp_F0Fjo8n4CY_Ymyif-119" value="評核人5給分備註" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" parent="mXp_F0Fjo8n4CY_Ymyif-117" vertex="1">
           <mxGeometry x="60" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -418,7 +418,59 @@
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mXp_F0Fjo8n4CY_Ymyif-122" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" parent="mXp_F0Fjo8n4CY_Ymyif-120" vertex="1">
+        <mxCell id="mXp_F0Fjo8n4CY_Ymyif-122" value="評核人6給分備註" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" parent="mXp_F0Fjo8n4CY_Ymyif-120" vertex="1">
+          <mxGeometry x="60" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="768ABsawM_O1ItDbbhL7-9" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="mXp_F0Fjo8n4CY_Ymyif-0">
+          <mxGeometry y="1030" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="768ABsawM_O1ItDbbhL7-10" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="768ABsawM_O1ItDbbhL7-9">
+          <mxGeometry width="60" height="30" as="geometry">
+            <mxRectangle width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="768ABsawM_O1ItDbbhL7-11" value="總經理考核分數" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="768ABsawM_O1ItDbbhL7-9">
+          <mxGeometry x="60" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="768ABsawM_O1ItDbbhL7-6" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="mXp_F0Fjo8n4CY_Ymyif-0">
+          <mxGeometry y="1060" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="768ABsawM_O1ItDbbhL7-7" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="768ABsawM_O1ItDbbhL7-6">
+          <mxGeometry width="60" height="30" as="geometry">
+            <mxRectangle width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="768ABsawM_O1ItDbbhL7-8" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;總經理給分備註&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="768ABsawM_O1ItDbbhL7-6">
+          <mxGeometry x="60" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="768ABsawM_O1ItDbbhL7-3" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="mXp_F0Fjo8n4CY_Ymyif-0">
+          <mxGeometry y="1090" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="768ABsawM_O1ItDbbhL7-4" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="768ABsawM_O1ItDbbhL7-3">
+          <mxGeometry width="60" height="30" as="geometry">
+            <mxRectangle width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="768ABsawM_O1ItDbbhL7-5" value="董事長考核分數" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="768ABsawM_O1ItDbbhL7-3">
+          <mxGeometry x="60" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="768ABsawM_O1ItDbbhL7-0" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="mXp_F0Fjo8n4CY_Ymyif-0">
+          <mxGeometry y="1120" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="768ABsawM_O1ItDbbhL7-1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="768ABsawM_O1ItDbbhL7-0">
+          <mxGeometry width="60" height="30" as="geometry">
+            <mxRectangle width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="768ABsawM_O1ItDbbhL7-2" value="董事長給分備註" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="768ABsawM_O1ItDbbhL7-0">
           <mxGeometry x="60" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -494,8 +546,26 @@
         <mxCell id="mXp_F0Fjo8n4CY_Ymyif-70" value="請假、遲到早退要紀錄嗎？" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="440" y="340" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="mXp_F0Fjo8n4CY_Ymyif-71" value="用主管還是用部門，還要想一下" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="430" y="550" width="100" height="50" as="geometry" />
+        <mxCell id="mXp_F0Fjo8n4CY_Ymyif-71" value="用主管還是用部門，還要想一下&lt;br&gt;用主管：" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="420" y="550" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="768ABsawM_O1ItDbbhL7-18" value="班長" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="600" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="768ABsawM_O1ItDbbhL7-19" value="組長" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="690" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="768ABsawM_O1ItDbbhL7-20" value="課長" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="780" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="768ABsawM_O1ItDbbhL7-21" value="廠處長經理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="870" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="768ABsawM_O1ItDbbhL7-22" value="協理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="960" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="768ABsawM_O1ItDbbhL7-23" value="副總" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="1050" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
